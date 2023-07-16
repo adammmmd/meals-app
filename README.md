@@ -1,6 +1,7 @@
 # Receipt Search app built with Vue.js
 
 ## Demo
+http://mealsyum.netlify.app
 
 ## Installation
 1. Clone the repository
