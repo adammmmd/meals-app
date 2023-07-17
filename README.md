@@ -1,4 +1,4 @@
-# Receipt Search app built with Vue.js
+# Meals App
 
 ## Demo
 http://mealsyum.netlify.app
